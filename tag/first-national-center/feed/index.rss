@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>First National Center &#8211; Oklahoma City Free Press</title>
+	<atom:link href="https://freepressokc.com/tag/first-national-center/feed/" rel="self" type="application/rss+xml" />
+	<link>https://freepressokc.com</link>
+	<description>Independent reader-engaged community news</description>
+	<lastBuildDate>Sat, 04 Aug 2018 23:12:22 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>hourly</sy:updatePeriod>
+	<sy:updateFrequency>1</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=4.9.8</generator>
+
+<image>
+	<url>https://freepressokc.com/wp-content/uploads/2016/09/cropped-FPLogo-Nov1-black-32x32.png</url>
+	<title>First National Center &#8211; Oklahoma City Free Press</title>
+	<link>https://freepressokc.com</link>
+	<width>32</width>
+	<height>32</height>
+</image> 
+	<item>
+		<title>One last look before work begins on First National Center</title>
+		<link>https://freepressokc.com/one-last-look-first-national-center/</link>
+		<comments>https://freepressokc.com/one-last-look-first-national-center/#respond</comments>
+		<pubDate>Sat, 17 Jun 2017 02:38:27 +0000</pubDate>
+		<dc:creator><![CDATA[Brett Dickerson]]></dc:creator>
+				<category><![CDATA[Business]]></category>
+		<category><![CDATA[architecture]]></category>
+		<category><![CDATA[First National Center]]></category>
+
+		<guid isPermaLink="false">https://freepressokc.com/?p=1659</guid>
+		<description><![CDATA[<p>Developer Gary Brooks and his partner, Charlie Nicholas, are ready to begin work on the First National Center in downtown Oklahoma City on Robinson between Main and Park Avenue. It’s a big building that has not been maintained properly for years. There’s plenty of room for error and Brooks knows that. “We don’t want to [&#8230;]</p>
+<p>The post <a rel="nofollow" href="https://freepressokc.com/one-last-look-first-national-center/">One last look before work begins on First National Center</a> appeared first on <a rel="nofollow" href="https://freepressokc.com">Oklahoma City Free Press</a>.</p>
+]]></description>
+		<wfw:commentRss>https://freepressokc.com/one-last-look-first-national-center/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+	</channel>
+</rss>

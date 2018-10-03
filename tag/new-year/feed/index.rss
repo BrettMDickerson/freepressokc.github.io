@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>new year &#8211; Oklahoma City Free Press</title>
+	<atom:link href="https://freepressokc.com/tag/new-year/feed/" rel="self" type="application/rss+xml" />
+	<link>https://freepressokc.com</link>
+	<description>Independent reader-engaged community news</description>
+	<lastBuildDate>Sat, 04 Aug 2018 23:12:22 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>hourly</sy:updatePeriod>
+	<sy:updateFrequency>1</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=4.9.8</generator>
+
+<image>
+	<url>https://freepressokc.com/wp-content/uploads/2016/09/cropped-FPLogo-Nov1-black-32x32.png</url>
+	<title>new year &#8211; Oklahoma City Free Press</title>
+	<link>https://freepressokc.com</link>
+	<width>32</width>
+	<height>32</height>
+</image> 
+	<item>
+		<title>New year – new kind of independence</title>
+		<link>https://freepressokc.com/new-year-new-independence/</link>
+		<comments>https://freepressokc.com/new-year-new-independence/#respond</comments>
+		<pubDate>Mon, 01 Jan 2018 01:12:15 +0000</pubDate>
+		<dc:creator><![CDATA[Brett Dickerson]]></dc:creator>
+				<category><![CDATA[Shoe-leather Blog]]></category>
+		<category><![CDATA[new year]]></category>
+
+		<guid isPermaLink="false">https://freepressokc.com/?p=3821</guid>
+		<description><![CDATA[<p>In the few days leading up to the new year, I’ve been working hard to detach Free Press operations from the Windows sphere and move to Linux. Linux is a whole host of free (as in beer) operating systems that are open-source, meaning anyone can inspect the entire code source and reuse any part of [&#8230;]</p>
+<p>The post <a rel="nofollow" href="https://freepressokc.com/new-year-new-independence/">New year – new kind of independence</a> appeared first on <a rel="nofollow" href="https://freepressokc.com">Oklahoma City Free Press</a>.</p>
+]]></description>
+		<wfw:commentRss>https://freepressokc.com/new-year-new-independence/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+	</channel>
+</rss>

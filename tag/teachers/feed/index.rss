@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>teachers &#8211; Oklahoma City Free Press</title>
+	<atom:link href="https://freepressokc.com/tag/teachers/feed/" rel="self" type="application/rss+xml" />
+	<link>https://freepressokc.com</link>
+	<description>Independent reader-engaged community news</description>
+	<lastBuildDate>Sat, 04 Aug 2018 23:12:22 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>hourly</sy:updatePeriod>
+	<sy:updateFrequency>1</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=4.9.8</generator>
+
+<image>
+	<url>https://freepressokc.com/wp-content/uploads/2016/09/cropped-FPLogo-Nov1-black-32x32.png</url>
+	<title>teachers &#8211; Oklahoma City Free Press</title>
+	<link>https://freepressokc.com</link>
+	<width>32</width>
+	<height>32</height>
+</image> 
+	<item>
+		<title>Teachers, unions point efforts toward November elections</title>
+		<link>https://freepressokc.com/teachers-unions-point-efforts-november-elections/</link>
+		<comments>https://freepressokc.com/teachers-unions-point-efforts-november-elections/#respond</comments>
+		<pubDate>Tue, 17 Apr 2018 23:06:11 +0000</pubDate>
+		<dc:creator><![CDATA[Brett Dickerson]]></dc:creator>
+				<category><![CDATA[Education]]></category>
+		<category><![CDATA[Politics]]></category>
+		<category><![CDATA[education]]></category>
+		<category><![CDATA[elections]]></category>
+		<category><![CDATA[teachers]]></category>
+
+		<guid isPermaLink="false">https://freepressokc.com/?p=4749</guid>
+		<description><![CDATA[<p>Teachers granted leave by their school districts to lobby the Oklahoma Legislature were at the Capitol Tuesday along with union officials as they point efforts toward November elections. “We are here to reconnect the disconnect between Legislators and education that we witnessed here over the last two weeks of the walkout,” said Emily Busey, an [&#8230;]</p>
+<p>The post <a rel="nofollow" href="https://freepressokc.com/teachers-unions-point-efforts-november-elections/">Teachers, unions point efforts toward November elections</a> appeared first on <a rel="nofollow" href="https://freepressokc.com">Oklahoma City Free Press</a>.</p>
+]]></description>
+		<wfw:commentRss>https://freepressokc.com/teachers-unions-point-efforts-november-elections/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>John Rex Board supports teacher walkout for first five days</title>
+		<link>https://freepressokc.com/john-rex-board-supports-teacher-walkout-for-first-five-days/</link>
+		<comments>https://freepressokc.com/john-rex-board-supports-teacher-walkout-for-first-five-days/#respond</comments>
+		<pubDate>Tue, 20 Mar 2018 14:27:44 +0000</pubDate>
+		<dc:creator><![CDATA[Brett Dickerson]]></dc:creator>
+				<category><![CDATA[Education]]></category>
+		<category><![CDATA[teachers]]></category>
+		<category><![CDATA[walkout]]></category>
+
+		<guid isPermaLink="false">https://freepressokc.com/?p=4479</guid>
+		<description><![CDATA[<p>At their teachers’ request, the Board of Directors for John Rex Charter Elementary voted to “fully support its teachers” in the event of a state teacher walkout over school funding. The board’s resolution Monday also said that they would back the teachers through the first five days of the threatened walkout and then decide what [&#8230;]</p>
+<p>The post <a rel="nofollow" href="https://freepressokc.com/john-rex-board-supports-teacher-walkout-for-first-five-days/">John Rex Board supports teacher walkout for first five days</a> appeared first on <a rel="nofollow" href="https://freepressokc.com">Oklahoma City Free Press</a>.</p>
+]]></description>
+		<wfw:commentRss>https://freepressokc.com/john-rex-board-supports-teacher-walkout-for-first-five-days/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+	</channel>
+</rss>

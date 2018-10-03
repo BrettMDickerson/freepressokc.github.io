@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>top five &#8211; Oklahoma City Free Press</title>
+	<atom:link href="https://freepressokc.com/tag/top-five/feed/" rel="self" type="application/rss+xml" />
+	<link>https://freepressokc.com</link>
+	<description>Independent reader-engaged community news</description>
+	<lastBuildDate>Sat, 04 Aug 2018 23:12:22 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>hourly</sy:updatePeriod>
+	<sy:updateFrequency>1</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=4.9.8</generator>
+
+<image>
+	<url>https://freepressokc.com/wp-content/uploads/2016/09/cropped-FPLogo-Nov1-black-32x32.png</url>
+	<title>top five &#8211; Oklahoma City Free Press</title>
+	<link>https://freepressokc.com</link>
+	<width>32</width>
+	<height>32</height>
+</image> 
+	<item>
+		<title>These were our top five stories of 2017</title>
+		<link>https://freepressokc.com/top-five-stories-2017/</link>
+		<comments>https://freepressokc.com/top-five-stories-2017/#respond</comments>
+		<pubDate>Mon, 01 Jan 2018 05:52:41 +0000</pubDate>
+		<dc:creator><![CDATA[Brett Dickerson]]></dc:creator>
+				<category><![CDATA[Featured]]></category>
+		<category><![CDATA[top five]]></category>
+
+		<guid isPermaLink="false">https://freepressokc.com/?p=3825</guid>
+		<description><![CDATA[<p>Here are the top five most-viewed stories out of the 203 original, copyrighted pieces we published in 2017. Most viewed story of 2017 Bike ride turns to fearful encounter with police Free Press stories inform and don’t try to inflame. The result is that we generally don’t have a large number of passionate comments even [&#8230;]</p>
+<p>The post <a rel="nofollow" href="https://freepressokc.com/top-five-stories-2017/">These were our top five stories of 2017</a> appeared first on <a rel="nofollow" href="https://freepressokc.com">Oklahoma City Free Press</a>.</p>
+]]></description>
+		<wfw:commentRss>https://freepressokc.com/top-five-stories-2017/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+	</channel>
+</rss>

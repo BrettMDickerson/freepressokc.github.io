@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>Shortey &#8211; Oklahoma City Free Press</title>
+	<atom:link href="https://freepressokc.com/tag/shortey/feed/" rel="self" type="application/rss+xml" />
+	<link>https://freepressokc.com</link>
+	<description>Independent reader-engaged community news</description>
+	<lastBuildDate>Sat, 04 Aug 2018 23:12:22 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>hourly</sy:updatePeriod>
+	<sy:updateFrequency>1</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=4.9.8</generator>
+
+<image>
+	<url>https://freepressokc.com/wp-content/uploads/2016/09/cropped-FPLogo-Nov1-black-32x32.png</url>
+	<title>Shortey &#8211; Oklahoma City Free Press</title>
+	<link>https://freepressokc.com</link>
+	<width>32</width>
+	<height>32</height>
+</image> 
+	<item>
+		<title>Shortey indicted by federal grand jury</title>
+		<link>https://freepressokc.com/shortey-indicted-federal-grand-jury/</link>
+		<comments>https://freepressokc.com/shortey-indicted-federal-grand-jury/#respond</comments>
+		<pubDate>Wed, 06 Sep 2017 22:19:10 +0000</pubDate>
+		<dc:creator><![CDATA[Brett Dickerson]]></dc:creator>
+				<category><![CDATA[Crime]]></category>
+		<category><![CDATA[crimes]]></category>
+		<category><![CDATA[sex]]></category>
+		<category><![CDATA[Shortey]]></category>
+
+		<guid isPermaLink="false">https://freepressokc.com/?p=2228</guid>
+		<description><![CDATA[<p>Former state senator Ralph Shortey has been indicted by a federal grand jury for sex crimes. The indictment was unsealed Wednesday afternoon in Oklahoma City. Sept. 5 a federal grand jury returned a four-count indictment involving child pornography and child sex trafficking according to Mark A Yancey, United States Attorney for the Western District of [&#8230;]</p>
+<p>The post <a rel="nofollow" href="https://freepressokc.com/shortey-indicted-federal-grand-jury/">Shortey indicted by federal grand jury</a> appeared first on <a rel="nofollow" href="https://freepressokc.com">Oklahoma City Free Press</a>.</p>
+]]></description>
+		<wfw:commentRss>https://freepressokc.com/shortey-indicted-federal-grand-jury/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>We will report religious aspects of a story</title>
+		<link>https://freepressokc.com/will-report-religious-aspects-story/</link>
+		<comments>https://freepressokc.com/will-report-religious-aspects-story/#respond</comments>
+		<pubDate>Wed, 22 Mar 2017 20:11:45 +0000</pubDate>
+		<dc:creator><![CDATA[Brett Dickerson]]></dc:creator>
+				<category><![CDATA[Shoe-leather Blog]]></category>
+		<category><![CDATA[religion]]></category>
+		<category><![CDATA[Shortey]]></category>
+
+		<guid isPermaLink="false">https://freepressokc.com/?p=1087</guid>
+		<description><![CDATA[<p>Some were surprised that FP had a story about Ralph Shortey’s religious background and what it might reveal about his complex struggles. I ran that piece because it is an important part of the Ralph Shortey story.  To ignore his religious background and orientation is to miss an important aspect of the man. Unfamiliar territory [&#8230;]</p>
+<p>The post <a rel="nofollow" href="https://freepressokc.com/will-report-religious-aspects-story/">We will report religious aspects of a story</a> appeared first on <a rel="nofollow" href="https://freepressokc.com">Oklahoma City Free Press</a>.</p>
+]]></description>
+		<wfw:commentRss>https://freepressokc.com/will-report-religious-aspects-story/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+	</channel>
+</rss>

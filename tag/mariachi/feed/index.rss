@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>Mariachi &#8211; Oklahoma City Free Press</title>
+	<atom:link href="https://freepressokc.com/tag/mariachi/feed/" rel="self" type="application/rss+xml" />
+	<link>https://freepressokc.com</link>
+	<description>Independent reader-engaged community news</description>
+	<lastBuildDate>Sat, 04 Aug 2018 23:12:22 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>hourly</sy:updatePeriod>
+	<sy:updateFrequency>1</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=4.9.8</generator>
+
+<image>
+	<url>https://freepressokc.com/wp-content/uploads/2016/09/cropped-FPLogo-Nov1-black-32x32.png</url>
+	<title>Mariachi &#8211; Oklahoma City Free Press</title>
+	<link>https://freepressokc.com</link>
+	<width>32</width>
+	<height>32</height>
+</image> 
+	<item>
+		<title>Mariachi festival promotes pride, prepares Hispanic youth</title>
+		<link>https://freepressokc.com/mariachi-festival-promotes-pride-prepares-hispanic-youth/</link>
+		<comments>https://freepressokc.com/mariachi-festival-promotes-pride-prepares-hispanic-youth/#respond</comments>
+		<pubDate>Sun, 04 Feb 2018 22:13:43 +0000</pubDate>
+		<dc:creator><![CDATA[Brett Dickerson]]></dc:creator>
+				<category><![CDATA[Cultures]]></category>
+		<category><![CDATA[Mariachi]]></category>
+
+		<guid isPermaLink="false">https://freepressokc.com/?p=4132</guid>
+		<description><![CDATA[<p>The Second Annual Anita Martinez Mariachi Festival kicked off a week of activity Thursday with a concert that featured visiting artists and local talent. Mariachi Campanas de America is a San Antonio mariachi band that has been performing longer than some of its current members have been alive. They provided a rapid rotation of rousing [&#8230;]</p>
+<p>The post <a rel="nofollow" href="https://freepressokc.com/mariachi-festival-promotes-pride-prepares-hispanic-youth/">Mariachi festival promotes pride, prepares Hispanic youth</a> appeared first on <a rel="nofollow" href="https://freepressokc.com">Oklahoma City Free Press</a>.</p>
+]]></description>
+		<wfw:commentRss>https://freepressokc.com/mariachi-festival-promotes-pride-prepares-hispanic-youth/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>Mariachi summer camp encourages skill and pride</title>
+		<link>https://freepressokc.com/mariachi-summer-camp/</link>
+		<comments>https://freepressokc.com/mariachi-summer-camp/#respond</comments>
+		<pubDate>Thu, 20 Jul 2017 22:22:35 +0000</pubDate>
+		<dc:creator><![CDATA[Brett Dickerson]]></dc:creator>
+				<category><![CDATA[Cultures]]></category>
+		<category><![CDATA[Mariachi]]></category>
+
+		<guid isPermaLink="false">https://freepressokc.com/?p=1933</guid>
+		<description><![CDATA[<p>Emmanuel Terrazas likes to play his trumpet, and he plays it a lot during the school year. As a freshman at Del City High School this last year, he played in the marching band, jazz band and concert band. So, now he is adding to his skill set by learning the methods of Mariachi trumpet. [&#8230;]</p>
+<p>The post <a rel="nofollow" href="https://freepressokc.com/mariachi-summer-camp/">Mariachi summer camp encourages skill and pride</a> appeared first on <a rel="nofollow" href="https://freepressokc.com">Oklahoma City Free Press</a>.</p>
+]]></description>
+		<wfw:commentRss>https://freepressokc.com/mariachi-summer-camp/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+	</channel>
+</rss>

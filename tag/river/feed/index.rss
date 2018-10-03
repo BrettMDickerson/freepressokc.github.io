@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>river &#8211; Oklahoma City Free Press</title>
+	<atom:link href="https://freepressokc.com/tag/river/feed/" rel="self" type="application/rss+xml" />
+	<link>https://freepressokc.com</link>
+	<description>Independent reader-engaged community news</description>
+	<lastBuildDate>Sat, 04 Aug 2018 23:12:22 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>hourly</sy:updatePeriod>
+	<sy:updateFrequency>1</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=4.9.8</generator>
+
+<image>
+	<url>https://freepressokc.com/wp-content/uploads/2016/09/cropped-FPLogo-Nov1-black-32x32.png</url>
+	<title>river &#8211; Oklahoma City Free Press</title>
+	<link>https://freepressokc.com</link>
+	<width>32</width>
+	<height>32</height>
+</image> 
+	<item>
+		<title>New riverfront park to be named after Hispanic WWII hero</title>
+		<link>https://freepressokc.com/new-riverfront-park-to-be-named-after-hispanic-wwii-war-hero/</link>
+		<comments>https://freepressokc.com/new-riverfront-park-to-be-named-after-hispanic-wwii-war-hero/#respond</comments>
+		<pubDate>Fri, 02 Dec 2016 23:45:41 +0000</pubDate>
+		<dc:creator><![CDATA[Brett Dickerson]]></dc:creator>
+				<category><![CDATA[Cultures]]></category>
+		<category><![CDATA[Perez Park]]></category>
+		<category><![CDATA[river]]></category>
+
+		<guid isPermaLink="false">http://www.freepressokc.com/?p=383</guid>
+		<description><![CDATA[<p>A new 27-acre riverfront park has been established by the Oklahoma City Council. A Hispanic WWII hero’s name will be transferred to it from a little used park nearby. The park was created by a Nov. 11 council vote transferring the name of a little-used small park to a section of Wiley Post Park running [&#8230;]</p>
+<p>The post <a rel="nofollow" href="https://freepressokc.com/new-riverfront-park-to-be-named-after-hispanic-wwii-war-hero/">New riverfront park to be named after Hispanic WWII hero</a> appeared first on <a rel="nofollow" href="https://freepressokc.com">Oklahoma City Free Press</a>.</p>
+]]></description>
+		<wfw:commentRss>https://freepressokc.com/new-riverfront-park-to-be-named-after-hispanic-wwii-war-hero/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+	</channel>
+</rss>

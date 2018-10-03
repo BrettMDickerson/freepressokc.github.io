@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>SaveOKCSchools &#8211; Oklahoma City Free Press</title>
+	<atom:link href="https://freepressokc.com/tag/saveokcschools/feed/" rel="self" type="application/rss+xml" />
+	<link>https://freepressokc.com</link>
+	<description>Independent reader-engaged community news</description>
+	<lastBuildDate>Sat, 04 Aug 2018 23:12:22 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>hourly</sy:updatePeriod>
+	<sy:updateFrequency>1</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=4.9.8</generator>
+
+<image>
+	<url>https://freepressokc.com/wp-content/uploads/2016/09/cropped-FPLogo-Nov1-black-32x32.png</url>
+	<title>SaveOKCSchools &#8211; Oklahoma City Free Press</title>
+	<link>https://freepressokc.com</link>
+	<width>32</width>
+	<height>32</height>
+</image> 
+	<item>
+		<title>Group determined to call vote for local schools income tax</title>
+		<link>https://freepressokc.com/group-determined-tax/</link>
+		<comments>https://freepressokc.com/group-determined-tax/#respond</comments>
+		<pubDate>Thu, 30 Nov 2017 04:26:05 +0000</pubDate>
+		<dc:creator><![CDATA[Brett Dickerson]]></dc:creator>
+				<category><![CDATA[Government]]></category>
+		<category><![CDATA[SaveOKCSchools]]></category>
+
+		<guid isPermaLink="false">https://freepressokc.com/?p=2842</guid>
+		<description><![CDATA[<p>See updates in this story added Thursday, Nov. 30, 2:30 p.m. The group Save OKC Schools is determined to call for a vote of OKC residents for a local income tax that would support teachers in local public schools. This comes after several twists and turns in the process throughout the week where some signatures [&#8230;]</p>
+<p>The post <a rel="nofollow" href="https://freepressokc.com/group-determined-tax/">Group determined to call vote for local schools income tax</a> appeared first on <a rel="nofollow" href="https://freepressokc.com">Oklahoma City Free Press</a>.</p>
+]]></description>
+		<wfw:commentRss>https://freepressokc.com/group-determined-tax/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>Local schools income tax petition may not have enough signatures</title>
+		<link>https://freepressokc.com/tax-petition-may-not-enough-signatures/</link>
+		<comments>https://freepressokc.com/tax-petition-may-not-enough-signatures/#respond</comments>
+		<pubDate>Tue, 28 Nov 2017 04:22:26 +0000</pubDate>
+		<dc:creator><![CDATA[Brett Dickerson]]></dc:creator>
+				<category><![CDATA[Education]]></category>
+		<category><![CDATA[petition]]></category>
+		<category><![CDATA[SaveOKCSchools]]></category>
+
+		<guid isPermaLink="false">https://freepressokc.com/?p=2833</guid>
+		<description><![CDATA[<p>After gathering what they thought were 4,000 more signatures than needed, supporters learned Monday there may not be enough valid ones on an income tax petition intended to benefit local schools. With only hours to go before her 5 p.m. Monday deadline, Oklahoma City Clerk Frances Kersey issued a preliminary report cautioning that there may [&#8230;]</p>
+<p>The post <a rel="nofollow" href="https://freepressokc.com/tax-petition-may-not-enough-signatures/">Local schools income tax petition may not have enough signatures</a> appeared first on <a rel="nofollow" href="https://freepressokc.com">Oklahoma City Free Press</a>.</p>
+]]></description>
+		<wfw:commentRss>https://freepressokc.com/tax-petition-may-not-enough-signatures/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>Local income tax for metro schools one step closer</title>
+		<link>https://freepressokc.com/petition-sigs-income-tax-delivered/</link>
+		<comments>https://freepressokc.com/petition-sigs-income-tax-delivered/#respond</comments>
+		<pubDate>Fri, 10 Nov 2017 22:27:18 +0000</pubDate>
+		<dc:creator><![CDATA[Brett Dickerson]]></dc:creator>
+				<category><![CDATA[Government]]></category>
+		<category><![CDATA[SaveOKCSchools]]></category>
+		<category><![CDATA[tax]]></category>
+
+		<guid isPermaLink="false">https://freepressokc.com/?p=2719</guid>
+		<description><![CDATA[<p>OKC Councilman Ed Shadid delivered three suitcases to City Hall downtown Thursday containing what he claimed were 16,000 petition signatures for a city income tax to support local public schools. Only 12,000 are needed to put measure on the next ballot. The petition was circulated by a local organization called Save OKC Schools. It calls [&#8230;]</p>
+<p>The post <a rel="nofollow" href="https://freepressokc.com/petition-sigs-income-tax-delivered/">Local income tax for metro schools one step closer</a> appeared first on <a rel="nofollow" href="https://freepressokc.com">Oklahoma City Free Press</a>.</p>
+]]></description>
+		<wfw:commentRss>https://freepressokc.com/petition-sigs-income-tax-delivered/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+	</channel>
+</rss>

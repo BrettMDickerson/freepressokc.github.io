@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>advertising &#8211; Oklahoma City Free Press</title>
+	<atom:link href="https://freepressokc.com/tag/advertising/feed/" rel="self" type="application/rss+xml" />
+	<link>https://freepressokc.com</link>
+	<description>Independent reader-engaged community news</description>
+	<lastBuildDate>Sat, 04 Aug 2018 23:12:22 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>hourly</sy:updatePeriod>
+	<sy:updateFrequency>1</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=4.9.8</generator>
+
+<image>
+	<url>https://freepressokc.com/wp-content/uploads/2016/09/cropped-FPLogo-Nov1-black-32x32.png</url>
+	<title>advertising &#8211; Oklahoma City Free Press</title>
+	<link>https://freepressokc.com</link>
+	<width>32</width>
+	<height>32</height>
+</image> 
+	<item>
+		<title>No advertising?</title>
+		<link>https://freepressokc.com/no-advertising/</link>
+		<comments>https://freepressokc.com/no-advertising/#respond</comments>
+		<pubDate>Mon, 23 Jan 2017 13:32:10 +0000</pubDate>
+		<dc:creator><![CDATA[Brett Dickerson]]></dc:creator>
+				<category><![CDATA[Shoe-leather Blog]]></category>
+		<category><![CDATA[advertising]]></category>
+
+		<guid isPermaLink="false">http://www.freepressokc.com/?p=717</guid>
+		<description><![CDATA[<p>That’s right. Your eyes aren’t deceiving you. We have no display-type advertising on Free Press. It&#8217;s because the story and you are the most important thing for us. This will be a donor and sponsorship news organization. That means we won’t get the quick bucks of display ads, but we will slowly build financial backing [&#8230;]</p>
+<p>The post <a rel="nofollow" href="https://freepressokc.com/no-advertising/">No advertising?</a> appeared first on <a rel="nofollow" href="https://freepressokc.com">Oklahoma City Free Press</a>.</p>
+]]></description>
+		<wfw:commentRss>https://freepressokc.com/no-advertising/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+	</channel>
+</rss>

@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>protest &#8211; Oklahoma City Free Press</title>
+	<atom:link href="https://freepressokc.com/tag/protest/feed/" rel="self" type="application/rss+xml" />
+	<link>https://freepressokc.com</link>
+	<description>Independent reader-engaged community news</description>
+	<lastBuildDate>Sat, 04 Aug 2018 23:12:22 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>hourly</sy:updatePeriod>
+	<sy:updateFrequency>1</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=4.9.8</generator>
+
+<image>
+	<url>https://freepressokc.com/wp-content/uploads/2016/09/cropped-FPLogo-Nov1-black-32x32.png</url>
+	<title>protest &#8211; Oklahoma City Free Press</title>
+	<link>https://freepressokc.com</link>
+	<width>32</width>
+	<height>32</height>
+</image> 
+	<item>
+		<title>NW Classen students protest teacher&#8217;s removal</title>
+		<link>https://freepressokc.com/students-protest-removal/</link>
+		<comments>https://freepressokc.com/students-protest-removal/#respond</comments>
+		<pubDate>Fri, 08 Dec 2017 18:59:00 +0000</pubDate>
+		<dc:creator><![CDATA[Brett Dickerson]]></dc:creator>
+				<category><![CDATA[Education]]></category>
+		<category><![CDATA[NW Classen]]></category>
+		<category><![CDATA[protest]]></category>
+
+		<guid isPermaLink="false">https://freepressokc.com/?p=2905</guid>
+		<description><![CDATA[<p>About 60-70 students walked out of Northwest Classen High School around 9:30 a.m. Friday to demonstrate against Oklahoma City Public Schools putting a teacher on administrative leave. Planning for the protest began Thursday when word got out that Gregory Mills, a loved and respected health teacher, had been removed from his duties at the school. [&#8230;]</p>
+<p>The post <a rel="nofollow" href="https://freepressokc.com/students-protest-removal/">NW Classen students protest teacher&#8217;s removal</a> appeared first on <a rel="nofollow" href="https://freepressokc.com">Oklahoma City Free Press</a>.</p>
+]]></description>
+		<wfw:commentRss>https://freepressokc.com/students-protest-removal/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>US Attny Gen draws protesters at Rose State</title>
+		<link>https://freepressokc.com/us-attny-gen-draws-protesters-rose-state/</link>
+		<comments>https://freepressokc.com/us-attny-gen-draws-protesters-rose-state/#respond</comments>
+		<pubDate>Fri, 20 Oct 2017 04:31:48 +0000</pubDate>
+		<dc:creator><![CDATA[Brett Dickerson]]></dc:creator>
+				<category><![CDATA[Politics]]></category>
+		<category><![CDATA[Jeff Sessions]]></category>
+		<category><![CDATA[protest]]></category>
+		<category><![CDATA[Rose State]]></category>
+
+		<guid isPermaLink="false">https://freepressokc.com/?p=2566</guid>
+		<description><![CDATA[<p>A broad spectrum of activists were present at Rose State College for over two hours Thursday to demonstrate against U.S. Attorney General Jeff Sessions. He spoke to a gathering of the Oklahoma Sheriff’s Association on the campus of Rose State College in Midwest City. Protesters were made to line up behind yellow crime scene tape [&#8230;]</p>
+<p>The post <a rel="nofollow" href="https://freepressokc.com/us-attny-gen-draws-protesters-rose-state/">US Attny Gen draws protesters at Rose State</a> appeared first on <a rel="nofollow" href="https://freepressokc.com">Oklahoma City Free Press</a>.</p>
+]]></description>
+		<wfw:commentRss>https://freepressokc.com/us-attny-gen-draws-protesters-rose-state/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>Why the OKCPS principals’ union protest?</title>
+		<link>https://freepressokc.com/why-okcps-principals-protest/</link>
+		<comments>https://freepressokc.com/why-okcps-principals-protest/#respond</comments>
+		<pubDate>Mon, 19 Dec 2016 18:18:36 +0000</pubDate>
+		<dc:creator><![CDATA[Brett Dickerson]]></dc:creator>
+				<category><![CDATA[Education]]></category>
+		<category><![CDATA[principals]]></category>
+		<category><![CDATA[protest]]></category>
+
+		<guid isPermaLink="false">http://www.freepressokc.com/?p=444</guid>
+		<description><![CDATA[<p>Teachers’ union president Ed Allen is critical about the strategy of the principals&#8217; union who presented a letter of protest and demands to the Oklahoma City Public Schools board Dec. 12. Allen described it as “off the wall” and “wrong” in an interview with Free Press last week. He also thinks the principals union is not being [&#8230;]</p>
+<p>The post <a rel="nofollow" href="https://freepressokc.com/why-okcps-principals-protest/">Why the OKCPS principals’ union protest?</a> appeared first on <a rel="nofollow" href="https://freepressokc.com">Oklahoma City Free Press</a>.</p>
+]]></description>
+		<wfw:commentRss>https://freepressokc.com/why-okcps-principals-protest/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+	</channel>
+</rss>

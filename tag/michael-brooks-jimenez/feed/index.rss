@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>Michael Brooks-Jimenez &#8211; Oklahoma City Free Press</title>
+	<atom:link href="https://freepressokc.com/tag/michael-brooks-jimenez/feed/" rel="self" type="application/rss+xml" />
+	<link>https://freepressokc.com</link>
+	<description>Independent reader-engaged community news</description>
+	<lastBuildDate>Sat, 04 Aug 2018 23:12:22 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>hourly</sy:updatePeriod>
+	<sy:updateFrequency>1</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=4.9.8</generator>
+
+<image>
+	<url>https://freepressokc.com/wp-content/uploads/2016/09/cropped-FPLogo-Nov1-black-32x32.png</url>
+	<title>Michael Brooks-Jimenez &#8211; Oklahoma City Free Press</title>
+	<link>https://freepressokc.com</link>
+	<width>32</width>
+	<height>32</height>
+</image> 
+	<item>
+		<title>Brooks-Jimenez takes oath for Senate amid cheers</title>
+		<link>https://freepressokc.com/brooks-jimenez-takes-oath-senate-amid-cheers/</link>
+		<comments>https://freepressokc.com/brooks-jimenez-takes-oath-senate-amid-cheers/#respond</comments>
+		<pubDate>Wed, 26 Jul 2017 14:04:19 +0000</pubDate>
+		<dc:creator><![CDATA[Brett Dickerson]]></dc:creator>
+				<category><![CDATA[Politics]]></category>
+		<category><![CDATA[Michael Brooks-Jimenez]]></category>
+		<category><![CDATA[Oklahoma Senate]]></category>
+
+		<guid isPermaLink="false">https://freepressokc.com/?p=1964</guid>
+		<description><![CDATA[<p>“So help me, God.” As Michael Brooks-Jimenez said those final words of his oath of office for the Oklahoma Senate, supporters jumped to their feet as they clapped, whistled and cheered. It lasted 37 seconds, a sustained time for applause. Then when he was introduced as “Senator Michael Brooks,” the cheering and clapping started up [&#8230;]</p>
+<p>The post <a rel="nofollow" href="https://freepressokc.com/brooks-jimenez-takes-oath-senate-amid-cheers/">Brooks-Jimenez takes oath for Senate amid cheers</a> appeared first on <a rel="nofollow" href="https://freepressokc.com">Oklahoma City Free Press</a>.</p>
+]]></description>
+		<wfw:commentRss>https://freepressokc.com/brooks-jimenez-takes-oath-senate-amid-cheers/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+	</channel>
+</rss>

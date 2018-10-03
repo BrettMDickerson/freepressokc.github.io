@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>Douglass &#8211; Oklahoma City Free Press</title>
+	<atom:link href="https://freepressokc.com/tag/douglass/feed/" rel="self" type="application/rss+xml" />
+	<link>https://freepressokc.com</link>
+	<description>Independent reader-engaged community news</description>
+	<lastBuildDate>Sat, 04 Aug 2018 23:12:22 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>hourly</sy:updatePeriod>
+	<sy:updateFrequency>1</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=4.9.8</generator>
+
+<image>
+	<url>https://freepressokc.com/wp-content/uploads/2016/09/cropped-FPLogo-Nov1-black-32x32.png</url>
+	<title>Douglass &#8211; Oklahoma City Free Press</title>
+	<link>https://freepressokc.com</link>
+	<width>32</width>
+	<height>32</height>
+</image> 
+	<item>
+		<title>Douglass dance teaches more than dance moves</title>
+		<link>https://freepressokc.com/douglass-dance/</link>
+		<comments>https://freepressokc.com/douglass-dance/#respond</comments>
+		<pubDate>Thu, 04 May 2017 23:26:32 +0000</pubDate>
+		<dc:creator><![CDATA[Brett Dickerson]]></dc:creator>
+				<category><![CDATA[Education]]></category>
+		<category><![CDATA[Dance]]></category>
+		<category><![CDATA[Douglass]]></category>
+
+		<guid isPermaLink="false">https://freepressokc.com/?p=1414</guid>
+		<description><![CDATA[<p>“Create and collaborate” are among the objectives for the day posted in Maria Krey Gibson’s Fusion dance class at Frederick A. Douglass mid-high. The east-side school serves sixth grade through senior (12th) and is a part of Oklahoma City Public Schools. “The biggest lesson they have to learn is to overcome communication obstacles,” Gibson told [&#8230;]</p>
+<p>The post <a rel="nofollow" href="https://freepressokc.com/douglass-dance/">Douglass dance teaches more than dance moves</a> appeared first on <a rel="nofollow" href="https://freepressokc.com">Oklahoma City Free Press</a>.</p>
+]]></description>
+		<wfw:commentRss>https://freepressokc.com/douglass-dance/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+	</channel>
+</rss>

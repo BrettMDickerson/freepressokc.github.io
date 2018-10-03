@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>ICE &#8211; Oklahoma City Free Press</title>
+	<atom:link href="https://freepressokc.com/tag/ice/feed/" rel="self" type="application/rss+xml" />
+	<link>https://freepressokc.com</link>
+	<description>Independent reader-engaged community news</description>
+	<lastBuildDate>Sat, 04 Aug 2018 23:12:22 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>hourly</sy:updatePeriod>
+	<sy:updateFrequency>1</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=4.9.8</generator>
+
+<image>
+	<url>https://freepressokc.com/wp-content/uploads/2016/09/cropped-FPLogo-Nov1-black-32x32.png</url>
+	<title>ICE &#8211; Oklahoma City Free Press</title>
+	<link>https://freepressokc.com</link>
+	<width>32</width>
+	<height>32</height>
+</image> 
+	<item>
+		<title>Only declared OKC sanctuary church holds vigil at ICE offices</title>
+		<link>https://freepressokc.com/only-declared-okc-sanctuary-church-holds-vigil-at-ice-offices/</link>
+		<comments>https://freepressokc.com/only-declared-okc-sanctuary-church-holds-vigil-at-ice-offices/#respond</comments>
+		<pubDate>Mon, 19 Mar 2018 19:26:47 +0000</pubDate>
+		<dc:creator><![CDATA[Brett Dickerson]]></dc:creator>
+				<category><![CDATA[Cultures]]></category>
+		<category><![CDATA[deportations]]></category>
+		<category><![CDATA[ICE]]></category>
+		<category><![CDATA[sanctuary church]]></category>
+
+		<guid isPermaLink="false">https://freepressokc.com/?p=4463</guid>
+		<description><![CDATA[<p>The only congregation in Oklahoma City to declare itself a sanctuary church held a vigil and accompaniment at the OKC headquarters of the U.S. Customs and Immigration Service Thursday. And the pastor of that congregation says their presence could have been one reason for a woman with an ill child being given 60 more days [&#8230;]</p>
+<p>The post <a rel="nofollow" href="https://freepressokc.com/only-declared-okc-sanctuary-church-holds-vigil-at-ice-offices/">Only declared OKC sanctuary church holds vigil at ICE offices</a> appeared first on <a rel="nofollow" href="https://freepressokc.com">Oklahoma City Free Press</a>.</p>
+]]></description>
+		<wfw:commentRss>https://freepressokc.com/only-declared-okc-sanctuary-church-holds-vigil-at-ice-offices/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>ICE plans new enforcement facility in OKC</title>
+		<link>https://freepressokc.com/ice-plans-new-enforcement-facility-okc/</link>
+		<comments>https://freepressokc.com/ice-plans-new-enforcement-facility-okc/#respond</comments>
+		<pubDate>Fri, 02 Mar 2018 22:40:04 +0000</pubDate>
+		<dc:creator><![CDATA[Brett Dickerson]]></dc:creator>
+				<category><![CDATA[Government]]></category>
+		<category><![CDATA[ICE]]></category>
+		<category><![CDATA[Oklahoma City]]></category>
+
+		<guid isPermaLink="false">https://freepressokc.com/?p=4368</guid>
+		<description><![CDATA[<p>U.S. Immigration and Customs Enforcement (ICE) has plans for a new facility in Oklahoma City around I-40 and Meridian. It is designed to provide offices for up to 65 professional staff from the agency&#8217;s Enforcement and Removal Operations (ERO) a rezoning request with the City of Oklahoma City shows. The rezoning application states ERO is [&#8230;]</p>
+<p>The post <a rel="nofollow" href="https://freepressokc.com/ice-plans-new-enforcement-facility-okc/">ICE plans new enforcement facility in OKC</a> appeared first on <a rel="nofollow" href="https://freepressokc.com">Oklahoma City Free Press</a>.</p>
+]]></description>
+		<wfw:commentRss>https://freepressokc.com/ice-plans-new-enforcement-facility-okc/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+	</channel>
+</rss>

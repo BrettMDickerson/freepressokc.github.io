@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>Options &#8211; Oklahoma City Free Press</title>
+	<atom:link href="https://freepressokc.com/tag/options/feed/" rel="self" type="application/rss+xml" />
+	<link>https://freepressokc.com</link>
+	<description>Independent reader-engaged community news</description>
+	<lastBuildDate>Sat, 04 Aug 2018 23:12:22 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>hourly</sy:updatePeriod>
+	<sy:updateFrequency>1</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=4.9.8</generator>
+
+<image>
+	<url>https://freepressokc.com/wp-content/uploads/2016/09/cropped-FPLogo-Nov1-black-32x32.png</url>
+	<title>Options &#8211; Oklahoma City Free Press</title>
+	<link>https://freepressokc.com</link>
+	<width>32</width>
+	<height>32</height>
+</image> 
+	<item>
+		<title>We have options, so bring it!</title>
+		<link>https://freepressokc.com/we-have-options-so-bring-it/</link>
+		<comments>https://freepressokc.com/we-have-options-so-bring-it/#respond</comments>
+		<pubDate>Wed, 03 Jan 2018 05:15:20 +0000</pubDate>
+		<dc:creator><![CDATA[Brett Dickerson]]></dc:creator>
+				<category><![CDATA[Shoe-leather Blog]]></category>
+		<category><![CDATA[Options]]></category>
+
+		<guid isPermaLink="false">https://freepressokc.com/?p=3856</guid>
+		<description><![CDATA[<p>I can&#8217;t think of any better way to start an argument among my tech friends than to just say the term &#8220;net neutrality.&#8221; Many of them will argue that losing it in December was a portent of bad things to come. A smaller, but equally passionate group will say the term itself is political hype [&#8230;]</p>
+<p>The post <a rel="nofollow" href="https://freepressokc.com/we-have-options-so-bring-it/">We have options, so bring it!</a> appeared first on <a rel="nofollow" href="https://freepressokc.com">Oklahoma City Free Press</a>.</p>
+]]></description>
+		<wfw:commentRss>https://freepressokc.com/we-have-options-so-bring-it/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+	</channel>
+</rss>

@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>Holt &#8211; Oklahoma City Free Press</title>
+	<atom:link href="https://freepressokc.com/tag/holt/feed/" rel="self" type="application/rss+xml" />
+	<link>https://freepressokc.com</link>
+	<description>Independent reader-engaged community news</description>
+	<lastBuildDate>Sat, 04 Aug 2018 23:12:22 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>hourly</sy:updatePeriod>
+	<sy:updateFrequency>1</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=4.9.8</generator>
+
+<image>
+	<url>https://freepressokc.com/wp-content/uploads/2016/09/cropped-FPLogo-Nov1-black-32x32.png</url>
+	<title>Holt &#8211; Oklahoma City Free Press</title>
+	<link>https://freepressokc.com</link>
+	<width>32</width>
+	<height>32</height>
+</image> 
+	<item>
+		<title>Holt wins primary and race for Oklahoma City mayor</title>
+		<link>https://freepressokc.com/holt-wins-primary-race-oklahoma-city-mayor/</link>
+		<comments>https://freepressokc.com/holt-wins-primary-race-oklahoma-city-mayor/#respond</comments>
+		<pubDate>Wed, 14 Feb 2018 05:20:43 +0000</pubDate>
+		<dc:creator><![CDATA[Brett Dickerson]]></dc:creator>
+				<category><![CDATA[Politics]]></category>
+		<category><![CDATA[Holt]]></category>
+		<category><![CDATA[mayor]]></category>
+
+		<guid isPermaLink="false">https://freepressokc.com/?p=4225</guid>
+		<description><![CDATA[<p>State Senator David Holt received the majority of votes in the Oklahoma City mayoral primary Tuesday which gave him the win without a runoff. At his watch party early in the evening, Free Press visited with three supporters and then Holt. We asked one question of the supporters: What qualifies David Holt to be the [&#8230;]</p>
+<p>The post <a rel="nofollow" href="https://freepressokc.com/holt-wins-primary-race-oklahoma-city-mayor/">Holt wins primary and race for Oklahoma City mayor</a> appeared first on <a rel="nofollow" href="https://freepressokc.com">Oklahoma City Free Press</a>.</p>
+]]></description>
+		<wfw:commentRss>https://freepressokc.com/holt-wins-primary-race-oklahoma-city-mayor/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>Holt &#8211; &#8220;Not just running for mayor of downtown&#8221;</title>
+		<link>https://freepressokc.com/holt-not-just-running-mayor-downtown/</link>
+		<comments>https://freepressokc.com/holt-not-just-running-mayor-downtown/#respond</comments>
+		<pubDate>Fri, 05 Jan 2018 23:56:43 +0000</pubDate>
+		<dc:creator><![CDATA[Brett Dickerson]]></dc:creator>
+				<category><![CDATA[Politics]]></category>
+		<category><![CDATA[Holt]]></category>
+		<category><![CDATA[mayor]]></category>
+
+		<guid isPermaLink="false">https://freepressokc.com/?p=3878</guid>
+		<description><![CDATA[<p>&#8220;I&#8217;m not just running for mayor of downtown,&#8221; said David Holt. &#8220;I&#8217;m running for mayor of all of Oklahoma City.&#8221; And it seemed to sum up the core of the state senator&#8217;s campaign for mayor of Oklahoma City. He was answering one of many questions Thursday at a packed meeting of the Capitol Hill Civic [&#8230;]</p>
+<p>The post <a rel="nofollow" href="https://freepressokc.com/holt-not-just-running-mayor-downtown/">Holt &#8211; &#8220;Not just running for mayor of downtown&#8221;</a> appeared first on <a rel="nofollow" href="https://freepressokc.com">Oklahoma City Free Press</a>.</p>
+]]></description>
+		<wfw:commentRss>https://freepressokc.com/holt-not-just-running-mayor-downtown/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+	</channel>
+</rss>

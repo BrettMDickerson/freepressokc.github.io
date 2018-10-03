@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>Pete White &#8211; Oklahoma City Free Press</title>
+	<atom:link href="https://freepressokc.com/tag/pete-white/feed/" rel="self" type="application/rss+xml" />
+	<link>https://freepressokc.com</link>
+	<description>Independent reader-engaged community news</description>
+	<lastBuildDate>Sat, 04 Aug 2018 23:12:22 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>hourly</sy:updatePeriod>
+	<sy:updateFrequency>1</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=4.9.8</generator>
+
+<image>
+	<url>https://freepressokc.com/wp-content/uploads/2016/09/cropped-FPLogo-Nov1-black-32x32.png</url>
+	<title>Pete White &#8211; Oklahoma City Free Press</title>
+	<link>https://freepressokc.com</link>
+	<width>32</width>
+	<height>32</height>
+</image> 
+	<item>
+		<title>White takes one last very long OKC Council Meeting in stride</title>
+		<link>https://freepressokc.com/white-takes-council-meeting-stride/</link>
+		<comments>https://freepressokc.com/white-takes-council-meeting-stride/#respond</comments>
+		<pubDate>Wed, 29 Mar 2017 03:30:47 +0000</pubDate>
+		<dc:creator><![CDATA[Brett Dickerson]]></dc:creator>
+				<category><![CDATA[Government]]></category>
+		<category><![CDATA[council]]></category>
+		<category><![CDATA[Pete White]]></category>
+
+		<guid isPermaLink="false">https://freepressokc.com/?p=1143</guid>
+		<description><![CDATA[<p>Council members were saying their public goodbyes to Ward 4 Councilman Pete White at the end of the Oklahoma City Council meeting Tuesday. The south Oklahoma City attorney has been in some sort of service to the city since 1980, serving on commissions and committees that are the core of the smooth operation of city [&#8230;]</p>
+<p>The post <a rel="nofollow" href="https://freepressokc.com/white-takes-council-meeting-stride/">White takes one last very long OKC Council Meeting in stride</a> appeared first on <a rel="nofollow" href="https://freepressokc.com">Oklahoma City Free Press</a>.</p>
+]]></description>
+		<wfw:commentRss>https://freepressokc.com/white-takes-council-meeting-stride/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+	</channel>
+</rss>

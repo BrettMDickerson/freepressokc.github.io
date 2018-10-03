@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>neighborhoods &#8211; Oklahoma City Free Press</title>
+	<atom:link href="https://freepressokc.com/tag/neighborhoods/feed/" rel="self" type="application/rss+xml" />
+	<link>https://freepressokc.com</link>
+	<description>Independent reader-engaged community news</description>
+	<lastBuildDate>Sat, 04 Aug 2018 23:12:22 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>hourly</sy:updatePeriod>
+	<sy:updateFrequency>1</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=4.9.8</generator>
+
+<image>
+	<url>https://freepressokc.com/wp-content/uploads/2016/09/cropped-FPLogo-Nov1-black-32x32.png</url>
+	<title>neighborhoods &#8211; Oklahoma City Free Press</title>
+	<link>https://freepressokc.com</link>
+	<width>32</width>
+	<height>32</height>
+</image> 
+	<item>
+		<title>OKC Council update &#8211; neighborhoods receiving new money</title>
+		<link>https://freepressokc.com/okc-council-update-neighborhoods-receiving-new-money/</link>
+		<comments>https://freepressokc.com/okc-council-update-neighborhoods-receiving-new-money/#respond</comments>
+		<pubDate>Wed, 03 Jan 2018 15:31:42 +0000</pubDate>
+		<dc:creator><![CDATA[Brett Dickerson]]></dc:creator>
+				<category><![CDATA[City Hall Notes]]></category>
+		<category><![CDATA[neighborhoods]]></category>
+
+		<guid isPermaLink="false">https://freepressokc.com/?p=3860</guid>
+		<description><![CDATA[<p>Neighborhood development in core areas of the metro received more attention in the Oklahoma City Council&#8217;s first meeting of 2018. Adventure District After a year of hearing complaints from business owners, residents and Ward 7 Council member John Pettis, the council voted to give over $226,000 to actively promote the Adventure District surrounding the OkC [&#8230;]</p>
+<p>The post <a rel="nofollow" href="https://freepressokc.com/okc-council-update-neighborhoods-receiving-new-money/">OKC Council update &#8211; neighborhoods receiving new money</a> appeared first on <a rel="nofollow" href="https://freepressokc.com">Oklahoma City Free Press</a>.</p>
+]]></description>
+		<wfw:commentRss>https://freepressokc.com/okc-council-update-neighborhoods-receiving-new-money/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>Police and residents connect at south side “Coffee with a Cop”</title>
+		<link>https://freepressokc.com/south-side-coffee-cop/</link>
+		<comments>https://freepressokc.com/south-side-coffee-cop/#respond</comments>
+		<pubDate>Thu, 19 Jan 2017 05:11:27 +0000</pubDate>
+		<dc:creator><![CDATA[Brett Dickerson]]></dc:creator>
+				<category><![CDATA[Government]]></category>
+		<category><![CDATA[neighborhoods]]></category>
+		<category><![CDATA[police]]></category>
+
+		<guid isPermaLink="false">http://www.freepressokc.com/?p=706</guid>
+		<description><![CDATA[<p>Sleepy people sitting in their cars at the McDonald’s drive-thru lane at SE 44th St. and Shields Boulevard in Oklahoma City Wednesday were in for a surprise. When they pulled up to the window it wasn’t the usual McDonald’s uniforms they saw inside. Oklahoma City Police officers Tom Myers, Elizabeth Heard and Sgt. Ray Swearingen [&#8230;]</p>
+<p>The post <a rel="nofollow" href="https://freepressokc.com/south-side-coffee-cop/">Police and residents connect at south side “Coffee with a Cop”</a> appeared first on <a rel="nofollow" href="https://freepressokc.com">Oklahoma City Free Press</a>.</p>
+]]></description>
+		<wfw:commentRss>https://freepressokc.com/south-side-coffee-cop/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+	</channel>
+</rss>

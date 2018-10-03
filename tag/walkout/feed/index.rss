@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>walkout &#8211; Oklahoma City Free Press</title>
+	<atom:link href="https://freepressokc.com/tag/walkout/feed/" rel="self" type="application/rss+xml" />
+	<link>https://freepressokc.com</link>
+	<description>Independent reader-engaged community news</description>
+	<lastBuildDate>Sat, 04 Aug 2018 23:12:22 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>hourly</sy:updatePeriod>
+	<sy:updateFrequency>1</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=4.9.8</generator>
+
+<image>
+	<url>https://freepressokc.com/wp-content/uploads/2016/09/cropped-FPLogo-Nov1-black-32x32.png</url>
+	<title>walkout &#8211; Oklahoma City Free Press</title>
+	<link>https://freepressokc.com</link>
+	<width>32</width>
+	<height>32</height>
+</image> 
+	<item>
+		<title>Teacher walkout will test solidarity says AFT-OKC president</title>
+		<link>https://freepressokc.com/teacher-walkout-will-test-solidarity-says-aft-okc-president/</link>
+		<comments>https://freepressokc.com/teacher-walkout-will-test-solidarity-says-aft-okc-president/#respond</comments>
+		<pubDate>Sun, 01 Apr 2018 21:13:51 +0000</pubDate>
+		<dc:creator><![CDATA[Brett Dickerson]]></dc:creator>
+				<category><![CDATA[Education]]></category>
+		<category><![CDATA[teacher walkout]]></category>
+		<category><![CDATA[walkout]]></category>
+
+		<guid isPermaLink="false">https://freepressokc.com/?p=4615</guid>
+		<description><![CDATA[<p>With the teacher walkout on for Monday, questions remain about the future: How long can teachers maintain their resolve if walkout days stretch into weeks? The president of the Oklahoma City American Federation of Teachers thinks the longer the walkout lasts, the harder it will be for teachers to maintain their resolve in large enough [&#8230;]</p>
+<p>The post <a rel="nofollow" href="https://freepressokc.com/teacher-walkout-will-test-solidarity-says-aft-okc-president/">Teacher walkout will test solidarity says AFT-OKC president</a> appeared first on <a rel="nofollow" href="https://freepressokc.com">Oklahoma City Free Press</a>.</p>
+]]></description>
+		<wfw:commentRss>https://freepressokc.com/teacher-walkout-will-test-solidarity-says-aft-okc-president/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>John Rex Board supports teacher walkout for first five days</title>
+		<link>https://freepressokc.com/john-rex-board-supports-teacher-walkout-for-first-five-days/</link>
+		<comments>https://freepressokc.com/john-rex-board-supports-teacher-walkout-for-first-five-days/#respond</comments>
+		<pubDate>Tue, 20 Mar 2018 14:27:44 +0000</pubDate>
+		<dc:creator><![CDATA[Brett Dickerson]]></dc:creator>
+				<category><![CDATA[Education]]></category>
+		<category><![CDATA[teachers]]></category>
+		<category><![CDATA[walkout]]></category>
+
+		<guid isPermaLink="false">https://freepressokc.com/?p=4479</guid>
+		<description><![CDATA[<p>At their teachers’ request, the Board of Directors for John Rex Charter Elementary voted to “fully support its teachers” in the event of a state teacher walkout over school funding. The board’s resolution Monday also said that they would back the teachers through the first five days of the threatened walkout and then decide what [&#8230;]</p>
+<p>The post <a rel="nofollow" href="https://freepressokc.com/john-rex-board-supports-teacher-walkout-for-first-five-days/">John Rex Board supports teacher walkout for first five days</a> appeared first on <a rel="nofollow" href="https://freepressokc.com">Oklahoma City Free Press</a>.</p>
+]]></description>
+		<wfw:commentRss>https://freepressokc.com/john-rex-board-supports-teacher-walkout-for-first-five-days/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+	</channel>
+</rss>

@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>Black Lives Matter &#8211; Oklahoma City Free Press</title>
+	<atom:link href="https://freepressokc.com/tag/black-lives-matter/feed/" rel="self" type="application/rss+xml" />
+	<link>https://freepressokc.com</link>
+	<description>Independent reader-engaged community news</description>
+	<lastBuildDate>Sat, 04 Aug 2018 23:12:22 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>hourly</sy:updatePeriod>
+	<sy:updateFrequency>1</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=4.9.8</generator>
+
+<image>
+	<url>https://freepressokc.com/wp-content/uploads/2016/09/cropped-FPLogo-Nov1-black-32x32.png</url>
+	<title>Black Lives Matter &#8211; Oklahoma City Free Press</title>
+	<link>https://freepressokc.com</link>
+	<width>32</width>
+	<height>32</height>
+</image> 
+	<item>
+		<title>What has changed since OKC Black Lives Matter rally 2016?</title>
+		<link>https://freepressokc.com/change-since-okc-black-lives-matter-rally-2016/</link>
+		<comments>https://freepressokc.com/change-since-okc-black-lives-matter-rally-2016/#respond</comments>
+		<pubDate>Mon, 10 Jul 2017 04:15:19 +0000</pubDate>
+		<dc:creator><![CDATA[Brett Dickerson]]></dc:creator>
+				<category><![CDATA[Cultures]]></category>
+		<category><![CDATA[Politics]]></category>
+		<category><![CDATA[Black Lives Matter]]></category>
+		<category><![CDATA[OKC]]></category>
+
+		<guid isPermaLink="false">https://freepressokc.com/?p=1875</guid>
+		<description><![CDATA[<p>Rev. T. Sheri Dickerson is happy when she thinks about the Black Lives Matter rally in Oklahoma City one year ago. She describes it as the day when activists in Oklahoma “got it so very right.” But she, Rev. Jesse Jackson and Tamya Cox talked with Free Press this week about their continuing concerns for [&#8230;]</p>
+<p>The post <a rel="nofollow" href="https://freepressokc.com/change-since-okc-black-lives-matter-rally-2016/">What has changed since OKC Black Lives Matter rally 2016?</a> appeared first on <a rel="nofollow" href="https://freepressokc.com">Oklahoma City Free Press</a>.</p>
+]]></description>
+		<wfw:commentRss>https://freepressokc.com/change-since-okc-black-lives-matter-rally-2016/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>Ind Day brings mixed feelings for local Black Lives Matter leaders</title>
+		<link>https://freepressokc.com/mixed-feelings-local-black-lives-matter-leaders/</link>
+		<comments>https://freepressokc.com/mixed-feelings-local-black-lives-matter-leaders/#respond</comments>
+		<pubDate>Sat, 08 Jul 2017 04:19:15 +0000</pubDate>
+		<dc:creator><![CDATA[Brett Dickerson]]></dc:creator>
+				<category><![CDATA[Cultures]]></category>
+		<category><![CDATA[Politics]]></category>
+		<category><![CDATA[Black Lives Matter]]></category>
+
+		<guid isPermaLink="false">https://freepressokc.com/?p=1859</guid>
+		<description><![CDATA[<p>Editor&#8217;s Note:  In two stories, Free Press is exploring the thoughts of several leaders of the Black Lives Matter, Oklahoma organization on the anniversary weekend of the rally in 2016. For this report, we asked some of the leaders for their views on Independence Day. Rev. Jesse Jackson is from a patriotic African-American family, but [&#8230;]</p>
+<p>The post <a rel="nofollow" href="https://freepressokc.com/mixed-feelings-local-black-lives-matter-leaders/">Ind Day brings mixed feelings for local Black Lives Matter leaders</a> appeared first on <a rel="nofollow" href="https://freepressokc.com">Oklahoma City Free Press</a>.</p>
+]]></description>
+		<wfw:commentRss>https://freepressokc.com/mixed-feelings-local-black-lives-matter-leaders/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+	</channel>
+</rss>

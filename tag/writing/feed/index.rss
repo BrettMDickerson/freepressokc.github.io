@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>writing &#8211; Oklahoma City Free Press</title>
+	<atom:link href="https://freepressokc.com/tag/writing/feed/" rel="self" type="application/rss+xml" />
+	<link>https://freepressokc.com</link>
+	<description>Independent reader-engaged community news</description>
+	<lastBuildDate>Sat, 04 Aug 2018 23:12:22 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>hourly</sy:updatePeriod>
+	<sy:updateFrequency>1</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=4.9.8</generator>
+
+<image>
+	<url>https://freepressokc.com/wp-content/uploads/2016/09/cropped-FPLogo-Nov1-black-32x32.png</url>
+	<title>writing &#8211; Oklahoma City Free Press</title>
+	<link>https://freepressokc.com</link>
+	<width>32</width>
+	<height>32</height>
+</image> 
+	<item>
+		<title>Into 2017 &#8211; Building a screenwriting network in OKC</title>
+		<link>https://freepressokc.com/screenwriting-okc/</link>
+		<comments>https://freepressokc.com/screenwriting-okc/#respond</comments>
+		<pubDate>Mon, 02 Jan 2017 02:35:12 +0000</pubDate>
+		<dc:creator><![CDATA[Brett Dickerson]]></dc:creator>
+				<category><![CDATA[Cinema]]></category>
+		<category><![CDATA[screenwriting]]></category>
+		<category><![CDATA[writing]]></category>
+
+		<guid isPermaLink="false">http://www.freepressokc.com/?p=564</guid>
+		<description><![CDATA[<p>The screenwriters panel at the 2016 deadCENTER Film Festival in Oklahoma City featured several people who had various levels of experience at the craft. But one of the panelists stood out by his blunt, but highly informative answers to questions. He was clearly someone wanting to engage the audience right there in Bricktown, not just [&#8230;]</p>
+<p>The post <a rel="nofollow" href="https://freepressokc.com/screenwriting-okc/">Into 2017 &#8211; Building a screenwriting network in OKC</a> appeared first on <a rel="nofollow" href="https://freepressokc.com">Oklahoma City Free Press</a>.</p>
+]]></description>
+		<wfw:commentRss>https://freepressokc.com/screenwriting-okc/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+	</channel>
+</rss>

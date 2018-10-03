@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>revenue &#8211; Oklahoma City Free Press</title>
+	<atom:link href="https://freepressokc.com/tag/revenue/feed/" rel="self" type="application/rss+xml" />
+	<link>https://freepressokc.com</link>
+	<description>Independent reader-engaged community news</description>
+	<lastBuildDate>Sat, 04 Aug 2018 23:12:22 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>hourly</sy:updatePeriod>
+	<sy:updateFrequency>1</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=4.9.8</generator>
+
+<image>
+	<url>https://freepressokc.com/wp-content/uploads/2016/09/cropped-FPLogo-Nov1-black-32x32.png</url>
+	<title>revenue &#8211; Oklahoma City Free Press</title>
+	<link>https://freepressokc.com</link>
+	<width>32</width>
+	<height>32</height>
+</image> 
+	<item>
+		<title>Northside forum crowd concerned about state revenue</title>
+		<link>https://freepressokc.com/northside-forum-crowd-concerned-about-state-revenue/</link>
+		<comments>https://freepressokc.com/northside-forum-crowd-concerned-about-state-revenue/#respond</comments>
+		<pubDate>Fri, 30 Mar 2018 15:21:38 +0000</pubDate>
+		<dc:creator><![CDATA[Brett Dickerson]]></dc:creator>
+				<category><![CDATA[Education]]></category>
+		<category><![CDATA[Politics]]></category>
+		<category><![CDATA[Oklahoma Legislature]]></category>
+		<category><![CDATA[revenue]]></category>
+
+		<guid isPermaLink="false">https://freepressokc.com/?p=4587</guid>
+		<description><![CDATA[<p>A forum on the near north side of Oklahoma City Thursday suggested that legislators and the public are not anywhere close to finished providing enough revenue for education and state services. And a senator at the forum said the reason for passing bills to increase teacher pay is because legislators are “scared to death of [&#8230;]</p>
+<p>The post <a rel="nofollow" href="https://freepressokc.com/northside-forum-crowd-concerned-about-state-revenue/">Northside forum crowd concerned about state revenue</a> appeared first on <a rel="nofollow" href="https://freepressokc.com">Oklahoma City Free Press</a>.</p>
+]]></description>
+		<wfw:commentRss>https://freepressokc.com/northside-forum-crowd-concerned-about-state-revenue/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+	</channel>
+</rss>

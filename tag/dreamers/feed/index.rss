@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>dreamers &#8211; Oklahoma City Free Press</title>
+	<atom:link href="https://freepressokc.com/tag/dreamers/feed/" rel="self" type="application/rss+xml" />
+	<link>https://freepressokc.com</link>
+	<description>Independent reader-engaged community news</description>
+	<lastBuildDate>Sat, 04 Aug 2018 23:12:22 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>hourly</sy:updatePeriod>
+	<sy:updateFrequency>1</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=4.9.8</generator>
+
+<image>
+	<url>https://freepressokc.com/wp-content/uploads/2016/09/cropped-FPLogo-Nov1-black-32x32.png</url>
+	<title>dreamers &#8211; Oklahoma City Free Press</title>
+	<link>https://freepressokc.com</link>
+	<width>32</width>
+	<height>32</height>
+</image> 
+	<item>
+		<title>Peaceful walkout, rally for Dreamers staged at Santa Fe South HS</title>
+		<link>https://freepressokc.com/peaceful-walkout-rally-dreamers/</link>
+		<comments>https://freepressokc.com/peaceful-walkout-rally-dreamers/#respond</comments>
+		<pubDate>Fri, 10 Nov 2017 01:20:11 +0000</pubDate>
+		<dc:creator><![CDATA[Brett Dickerson]]></dc:creator>
+				<category><![CDATA[Politics]]></category>
+		<category><![CDATA[DACA]]></category>
+		<category><![CDATA[dreamers]]></category>
+
+		<guid isPermaLink="false">https://freepressokc.com/?p=2704</guid>
+		<description><![CDATA[<p>Miguel Montelongo wasn&#8217;t supposed to speak at the Clean Dream Act rally Thursday afternoon in front of Santa Fe South High School. But when the emcee offered the bullhorn to anyone to speak, he accepted. The senior had heard some Latino classmates around him joking about deportations. He stumbled at first with what he wanted [&#8230;]</p>
+<p>The post <a rel="nofollow" href="https://freepressokc.com/peaceful-walkout-rally-dreamers/">Peaceful walkout, rally for Dreamers staged at Santa Fe South HS</a> appeared first on <a rel="nofollow" href="https://freepressokc.com">Oklahoma City Free Press</a>.</p>
+]]></description>
+		<wfw:commentRss>https://freepressokc.com/peaceful-walkout-rally-dreamers/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>DACA recipients, supporters speak out</title>
+		<link>https://freepressokc.com/daca-recipients-supporters-speak/</link>
+		<comments>https://freepressokc.com/daca-recipients-supporters-speak/#respond</comments>
+		<pubDate>Thu, 07 Sep 2017 06:51:45 +0000</pubDate>
+		<dc:creator><![CDATA[Brett Dickerson]]></dc:creator>
+				<category><![CDATA[Cultures]]></category>
+		<category><![CDATA[DACA]]></category>
+		<category><![CDATA[dreamers]]></category>
+
+		<guid isPermaLink="false">https://freepressokc.com/?p=2236</guid>
+		<description><![CDATA[<p>Tuesday was a hard day for DACA recipients. Tears, hope, anger and bewilderment were all in display at a news conference in Oklahoma City and across the nation. “My heart was crushed,” was the way one Oklahoma City young adult DACA recipient put it. That morning, United States Attorney General Jeff Sessions announced that there [&#8230;]</p>
+<p>The post <a rel="nofollow" href="https://freepressokc.com/daca-recipients-supporters-speak/">DACA recipients, supporters speak out</a> appeared first on <a rel="nofollow" href="https://freepressokc.com">Oklahoma City Free Press</a>.</p>
+]]></description>
+		<wfw:commentRss>https://freepressokc.com/daca-recipients-supporters-speak/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+	</channel>
+</rss>

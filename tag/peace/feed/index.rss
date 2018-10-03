@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>peace &#8211; Oklahoma City Free Press</title>
+	<atom:link href="https://freepressokc.com/tag/peace/feed/" rel="self" type="application/rss+xml" />
+	<link>https://freepressokc.com</link>
+	<description>Independent reader-engaged community news</description>
+	<lastBuildDate>Sat, 04 Aug 2018 23:12:22 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>hourly</sy:updatePeriod>
+	<sy:updateFrequency>1</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=4.9.8</generator>
+
+<image>
+	<url>https://freepressokc.com/wp-content/uploads/2016/09/cropped-FPLogo-Nov1-black-32x32.png</url>
+	<title>peace &#8211; Oklahoma City Free Press</title>
+	<link>https://freepressokc.com</link>
+	<width>32</width>
+	<height>32</height>
+</image> 
+	<item>
+		<title>“Rally Against Hate” at Capital draws larger crowd and counter protesters</title>
+		<link>https://freepressokc.com/rally-against-hate-at-capital-draws-larger-crowd-and-counter-protesters/</link>
+		<comments>https://freepressokc.com/rally-against-hate-at-capital-draws-larger-crowd-and-counter-protesters/#respond</comments>
+		<pubDate>Mon, 21 Nov 2016 05:29:24 +0000</pubDate>
+		<dc:creator><![CDATA[Brett Dickerson]]></dc:creator>
+				<category><![CDATA[Politics]]></category>
+		<category><![CDATA[peace]]></category>
+		<category><![CDATA[rally]]></category>
+
+		<guid isPermaLink="false">http://www.freepressokc.com/?p=314</guid>
+		<description><![CDATA[<p>The second Anti-Trump protest rally in a week seemed to gain more traction for religious and social justice groups opposed to the harsh rhetoric of president-elect Donald Trump and his followers. The “Rally Against Hate” Sunday, Nov. 20, drew a bigger crowd than the Saturday before but, this time, also drew counter-protesters. Rally speeches once again [&#8230;]</p>
+<p>The post <a rel="nofollow" href="https://freepressokc.com/rally-against-hate-at-capital-draws-larger-crowd-and-counter-protesters/">“Rally Against Hate” at Capital draws larger crowd and counter protesters</a> appeared first on <a rel="nofollow" href="https://freepressokc.com">Oklahoma City Free Press</a>.</p>
+]]></description>
+		<wfw:commentRss>https://freepressokc.com/rally-against-hate-at-capital-draws-larger-crowd-and-counter-protesters/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+	</channel>
+</rss>

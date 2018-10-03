@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>cynicism &#8211; Oklahoma City Free Press</title>
+	<atom:link href="https://freepressokc.com/tag/cynicism/feed/" rel="self" type="application/rss+xml" />
+	<link>https://freepressokc.com</link>
+	<description>Independent reader-engaged community news</description>
+	<lastBuildDate>Sat, 04 Aug 2018 23:12:22 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>hourly</sy:updatePeriod>
+	<sy:updateFrequency>1</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=4.9.8</generator>
+
+<image>
+	<url>https://freepressokc.com/wp-content/uploads/2016/09/cropped-FPLogo-Nov1-black-32x32.png</url>
+	<title>cynicism &#8211; Oklahoma City Free Press</title>
+	<link>https://freepressokc.com</link>
+	<width>32</width>
+	<height>32</height>
+</image> 
+	<item>
+		<title>Cynicism or Skepticism?</title>
+		<link>https://freepressokc.com/cynicism-or-skepticism/</link>
+		<comments>https://freepressokc.com/cynicism-or-skepticism/#respond</comments>
+		<pubDate>Sun, 16 Apr 2017 18:43:04 +0000</pubDate>
+		<dc:creator><![CDATA[Brett Dickerson]]></dc:creator>
+				<category><![CDATA[Shoe-leather Blog]]></category>
+		<category><![CDATA[cynicism]]></category>
+		<category><![CDATA[skepticism]]></category>
+
+		<guid isPermaLink="false">https://freepressokc.com/?p=1288</guid>
+		<description><![CDATA[<p>In my reporting, I will choose skepticism rather than cynicism. Cynicism, and its opposite, optimism are philosophies about people. There aren’t many optimists in the reporting world except for real estate writers, maybe. But, are there a good number of cynics? Oh,yeah. It’s a big temptation. Cynicism will move one along through the day. At [&#8230;]</p>
+<p>The post <a rel="nofollow" href="https://freepressokc.com/cynicism-or-skepticism/">Cynicism or Skepticism?</a> appeared first on <a rel="nofollow" href="https://freepressokc.com">Oklahoma City Free Press</a>.</p>
+]]></description>
+		<wfw:commentRss>https://freepressokc.com/cynicism-or-skepticism/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+	</channel>
+</rss>

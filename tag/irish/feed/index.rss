@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>Irish &#8211; Oklahoma City Free Press</title>
+	<atom:link href="https://freepressokc.com/tag/irish/feed/" rel="self" type="application/rss+xml" />
+	<link>https://freepressokc.com</link>
+	<description>Independent reader-engaged community news</description>
+	<lastBuildDate>Sat, 04 Aug 2018 23:12:22 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>hourly</sy:updatePeriod>
+	<sy:updateFrequency>1</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=4.9.8</generator>
+
+<image>
+	<url>https://freepressokc.com/wp-content/uploads/2016/09/cropped-FPLogo-Nov1-black-32x32.png</url>
+	<title>Irish &#8211; Oklahoma City Free Press</title>
+	<link>https://freepressokc.com</link>
+	<width>32</width>
+	<height>32</height>
+</image> 
+	<item>
+		<title>Sean Cummings developing new northside Irish restaurant</title>
+		<link>https://freepressokc.com/sean-cummings-developing-new-irish-restaurant/</link>
+		<comments>https://freepressokc.com/sean-cummings-developing-new-irish-restaurant/#respond</comments>
+		<pubDate>Fri, 16 Mar 2018 12:59:49 +0000</pubDate>
+		<dc:creator><![CDATA[Brett Dickerson]]></dc:creator>
+				<category><![CDATA[Business]]></category>
+		<category><![CDATA[Irish]]></category>
+		<category><![CDATA[restaurant]]></category>
+		<category><![CDATA[Sean's]]></category>
+
+		<guid isPermaLink="false">https://freepressokc.com/?p=4445</guid>
+		<description><![CDATA[<p>Sean Cummings is going to open Sean’s Irish Restaurant, a new Irish-themed establishment around the end of March and his long-time customers are acting like kids the night before Christmas. Every time he posts something new about it on Facebook a flood of customers who like his current Bacon restaurant, but remember his former place, [&#8230;]</p>
+<p>The post <a rel="nofollow" href="https://freepressokc.com/sean-cummings-developing-new-irish-restaurant/">Sean Cummings developing new northside Irish restaurant</a> appeared first on <a rel="nofollow" href="https://freepressokc.com">Oklahoma City Free Press</a>.</p>
+]]></description>
+		<wfw:commentRss>https://freepressokc.com/sean-cummings-developing-new-irish-restaurant/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+	</channel>
+</rss>

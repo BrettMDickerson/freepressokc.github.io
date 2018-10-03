@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>journalism &#8211; Oklahoma City Free Press</title>
+	<atom:link href="https://freepressokc.com/tag/journalism/feed/" rel="self" type="application/rss+xml" />
+	<link>https://freepressokc.com</link>
+	<description>Independent reader-engaged community news</description>
+	<lastBuildDate>Sat, 04 Aug 2018 23:12:22 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>hourly</sy:updatePeriod>
+	<sy:updateFrequency>1</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=4.9.8</generator>
+
+<image>
+	<url>https://freepressokc.com/wp-content/uploads/2016/09/cropped-FPLogo-Nov1-black-32x32.png</url>
+	<title>journalism &#8211; Oklahoma City Free Press</title>
+	<link>https://freepressokc.com</link>
+	<width>32</width>
+	<height>32</height>
+</image> 
+	<item>
+		<title>Why the award matters</title>
+		<link>https://freepressokc.com/why-the-award-matters/</link>
+		<comments>https://freepressokc.com/why-the-award-matters/#respond</comments>
+		<pubDate>Fri, 12 May 2017 14:54:16 +0000</pubDate>
+		<dc:creator><![CDATA[Brett Dickerson]]></dc:creator>
+				<category><![CDATA[Shoe-leather Blog]]></category>
+		<category><![CDATA[awards]]></category>
+		<category><![CDATA[journalism]]></category>
+
+		<guid isPermaLink="false">https://freepressokc.com/?p=1433</guid>
+		<description><![CDATA[<p>I haven’t been a journalist for my entire adult life. And so, it was with surprise and gratitude that I received my first journalism award &#8211; the Marshall Gregory award for education journalism from the Oklahoma Education Association. What&#8217;s important about the award is not the personal acclaim. It&#8217;s the credibility earned that counts. It [&#8230;]</p>
+<p>The post <a rel="nofollow" href="https://freepressokc.com/why-the-award-matters/">Why the award matters</a> appeared first on <a rel="nofollow" href="https://freepressokc.com">Oklahoma City Free Press</a>.</p>
+]]></description>
+		<wfw:commentRss>https://freepressokc.com/why-the-award-matters/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>No dependence on access</title>
+		<link>https://freepressokc.com/no-dependence-access/</link>
+		<comments>https://freepressokc.com/no-dependence-access/#respond</comments>
+		<pubDate>Mon, 01 May 2017 16:20:05 +0000</pubDate>
+		<dc:creator><![CDATA[Brett Dickerson]]></dc:creator>
+				<category><![CDATA[Shoe-leather Blog]]></category>
+		<category><![CDATA[access]]></category>
+		<category><![CDATA[journalism]]></category>
+
+		<guid isPermaLink="false">https://freepressokc.com/?p=1357</guid>
+		<description><![CDATA[<p>I’m embarking on a difficult but exciting process of learning how to retrieve information without depending fully on official access. The Intercept reporter Glenn Greenwald points to major shifts going on in journalism: This is a critical component of the future of journalism, especially now. https://t.co/OwiR7llGGI — Glenn Greenwald (@ggreenwald) January 13, 2017 Access journalism [&#8230;]</p>
+<p>The post <a rel="nofollow" href="https://freepressokc.com/no-dependence-access/">No dependence on access</a> appeared first on <a rel="nofollow" href="https://freepressokc.com">Oklahoma City Free Press</a>.</p>
+]]></description>
+		<wfw:commentRss>https://freepressokc.com/no-dependence-access/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+	</channel>
+</rss>

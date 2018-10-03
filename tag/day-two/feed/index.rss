@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>day two &#8211; Oklahoma City Free Press</title>
+	<atom:link href="https://freepressokc.com/tag/day-two/feed/" rel="self" type="application/rss+xml" />
+	<link>https://freepressokc.com</link>
+	<description>Independent reader-engaged community news</description>
+	<lastBuildDate>Sat, 04 Aug 2018 23:12:22 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>hourly</sy:updatePeriod>
+	<sy:updateFrequency>1</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=4.9.8</generator>
+
+<image>
+	<url>https://freepressokc.com/wp-content/uploads/2016/09/cropped-FPLogo-Nov1-black-32x32.png</url>
+	<title>day two &#8211; Oklahoma City Free Press</title>
+	<link>https://freepressokc.com</link>
+	<width>32</width>
+	<height>32</height>
+</image> 
+	<item>
+		<title>Teachers, supporters pack Capitol, plan to go back Wednesday</title>
+		<link>https://freepressokc.com/teachers-supporters-pack-capitol-plan-to-go-back-wednesday/</link>
+		<comments>https://freepressokc.com/teachers-supporters-pack-capitol-plan-to-go-back-wednesday/#respond</comments>
+		<pubDate>Wed, 04 Apr 2018 13:13:19 +0000</pubDate>
+		<dc:creator><![CDATA[Brett Dickerson]]></dc:creator>
+				<category><![CDATA[Education]]></category>
+		<category><![CDATA[Politics]]></category>
+		<category><![CDATA[day two]]></category>
+		<category><![CDATA[teacher walkout]]></category>
+
+		<guid isPermaLink="false">https://freepressokc.com/?p=4657</guid>
+		<description><![CDATA[<p>Teachers, students, and parents packed the Capitol Tuesday panicking Legislators and staff and announced plans to return to the Capitol for a third day Wednesday. They will continue their demands on the Legislature to restore funding that has been stripped away over the last ten years. And even though the Legislature has passed several funding [&#8230;]</p>
+<p>The post <a rel="nofollow" href="https://freepressokc.com/teachers-supporters-pack-capitol-plan-to-go-back-wednesday/">Teachers, supporters pack Capitol, plan to go back Wednesday</a> appeared first on <a rel="nofollow" href="https://freepressokc.com">Oklahoma City Free Press</a>.</p>
+]]></description>
+		<wfw:commentRss>https://freepressokc.com/teachers-supporters-pack-capitol-plan-to-go-back-wednesday/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+	</channel>
+</rss>
